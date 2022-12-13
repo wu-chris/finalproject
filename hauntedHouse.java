@@ -10,7 +10,6 @@ public class hauntedHouse {
         int treasure1[]=new int[]{0,1,0,1,0,0,1,0,1,0,0,0,0,1,0,0,1,0,0,1};
         int treasure3[]=new int[]{0,0,3,0,0,2,0,5,0,0,4,0,1,0,0,0,1,0,1,2};
         int property=0;
-        int position=0;
         int killer[]=new int[]{0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0};
         int window[]=new int[]{0,1,0,1,0,0,0,1,0,0,0,1,0,0,0,1,1,0,0,0};
         int unknowncreatureposition[]=new int[]{0,1,0,0,0,1,0,1,0,0,0,1,0,1,0,0,1,0,1,0};
